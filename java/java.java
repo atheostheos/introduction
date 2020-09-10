@@ -1,5 +1,6 @@
 class java {
 	public static void main(String[] args) {
-		System.out.print("Introduction.");
+		System.out.println("Introduction.");
+		System.out.println(Math.pow(2,10));
 	}
 }
